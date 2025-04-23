@@ -12,4 +12,4 @@ source ~/.zshrc
 mamba activate lrz_tutorial
 
 # Run your Python script
-srun python3 add_array.py
+srun python3 add_arrays.py

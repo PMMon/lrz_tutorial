@@ -13,6 +13,6 @@ b = np.array([4, 5, 6], dtype=int)
 
 result = a + b
 
-print("Array a:", a)
+print("\nArray a:", a)
 print("Array b:", b)
 print("a + b   =", result)
