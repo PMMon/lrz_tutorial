@@ -171,3 +171,7 @@ cython_debug/
 
 # Visual Studio Code
 .vscode
+
+# output logs
+*.err
+*.out
