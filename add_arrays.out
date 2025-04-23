@@ -1,4 +1,0 @@
-]2;mamba activate lrz_tutorial]1;]2;srun python3 add_arrays.py]1;
-Array a: [1 2 3]
-Array b: [4 5 6]
-a + b   = [5 7 9]
