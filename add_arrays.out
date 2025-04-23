@@ -1,0 +1,1 @@
+]2;mamba activate lrz_tutorial]1;]2;srun python3 add_array.py]1;

@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh
-#SBATCH -p mcml-hgx-a100-001
+#SBATCH -p mcml-hgx-a100-80x4
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=12G
