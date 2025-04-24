@@ -4,7 +4,7 @@
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=12G
 #SBATCH --qos=mcml
-#SBATCH -t 00:00:5
+#SBATCH -t 00:00:05
 #SBATCH -o add_arrays.out
 #SBATCH -e add_arrays.err
 
